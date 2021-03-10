@@ -9,6 +9,6 @@ Write a program, which ask for the number of screws, screw nuts and washes,
 calculate the total price.
 The program should check the order: it is a mistake to order more screws
 as screw nuts. In this case the program should notify the user: 
-"Please, check your order again!".
+"Please, check your order!".
 If the order is ok, the program should print:
 "The order is ok!" and the total price.

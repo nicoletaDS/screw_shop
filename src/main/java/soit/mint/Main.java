@@ -1,3 +1,5 @@
+package soit.mint;
+
 import java.util.Scanner;
 
 public class Main {
@@ -12,8 +14,6 @@ public class Main {
                 System.out.println("You ordered more screws as screw nuts. Please place your order again!");
             }
         } while (!order.checkOrder());
-
-
     }
 
     private static void placeOrder(Order order) {

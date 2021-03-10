@@ -1,3 +1,5 @@
+package soit.mint;
+
 public enum PriceList {
     SCREW(5),
     SCREW_NUT(3),

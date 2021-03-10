@@ -1,3 +1,5 @@
+package soit.mint;
+
 public class Order {
     private int screw;
     private int screw_nut;
